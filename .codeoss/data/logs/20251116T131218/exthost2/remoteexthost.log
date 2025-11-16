@@ -1,0 +1,6 @@
+2025-11-16 13:51:31.840 [info] Extension host with pid 1514 started
+2025-11-16 13:51:32.513 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2025-11-16 13:51:32.515 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-16 13:51:33.707 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-11-16 13:51:33.712 [info] Extension host terminating: received terminate message from renderer
+2025-11-16 13:51:33.714 [info] Extension host with pid 1514 exiting with code 0

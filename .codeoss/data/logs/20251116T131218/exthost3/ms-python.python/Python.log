@@ -1,0 +1,35 @@
+2025-11-16 13:52:06.890 [warning] Dir "/home/shresta333/.pixi/envs" is not watchable (directory does not exist)
+2025-11-16 13:52:06.890 [info] Starting Environment refresh
+2025-11-16 13:52:06.890 [info] Searching for interpreters in posix paths locator
+2025-11-16 13:52:06.890 [info] Searching for pyenv environments
+2025-11-16 13:52:06.890 [info] Searching for conda environments
+2025-11-16 13:52:06.890 [info] Searching for global virtual environments
+2025-11-16 13:52:06.890 [info] Searching for custom virtual environments
+2025-11-16 13:52:06.890 [info] pyenv is not installed
+2025-11-16 13:52:06.890 [info] Finished searching for pyenv environments: 51 milliseconds
+2025-11-16 13:52:06.890 [info] Finished searching for custom virtual envs: 51 milliseconds
+2025-11-16 13:52:06.890 [info] > conda info --json
+2025-11-16 13:52:06.890 [info] > hatch env show --json
+2025-11-16 13:52:06.890 [info] cwd: .
+2025-11-16 13:52:06.890 [info] > pyenv which python
+2025-11-16 13:52:06.890 [info] cwd: .
+2025-11-16 13:52:06.890 [info] Finished searching for global virtual envs: 138 milliseconds
+2025-11-16 13:52:06.892 [info] Found: /bin/python --> /bin/python3.12
+2025-11-16 13:52:06.895 [info] Found: /bin/python3 --> /bin/python3.12
+2025-11-16 13:52:06.895 [info] Found: /bin/python3.12 --> /bin/python3.12
+2025-11-16 13:52:06.920 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2025-11-16 13:52:06.922 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2025-11-16 13:52:06.926 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2025-11-16 13:52:06.985 [info] Finished searching for interpreters in posix paths locator: 246 milliseconds
+2025-11-16 13:52:06.986 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-11-16 13:52:07.060 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-11-16 13:52:07.060 [info] Environments refresh paths discovered (event): 341 milliseconds
+2025-11-16 13:52:07.060 [info] Environments refresh paths discovered: 343 milliseconds
+2025-11-16 13:52:07.259 [info] Environments refresh finished (event): 541 milliseconds
+2025-11-16 13:52:07.346 [info] Environment refresh took 629 milliseconds
+2025-11-16 13:52:07.391 [info] Python interpreter path: /bin/python
+2025-11-16 13:52:11.574 [info] Starting Jedi language server for shresta333.
+2025-11-16 13:52:28.470 [info] Discover tests for workspace name: shresta333 - uri: /home/shresta333/flask_app/main.py
+2025-11-16 13:52:29.278 [info] Discover tests for workspace name: shresta333 - uri: /home/shresta333/flask_app/main.py
+2025-11-16 13:52:40.552 [info] CreateEnv Trigger - Skipping for /home/shresta333/flask_app/main.py
+2025-11-16 13:52:40.937 [info] Send text to terminal: /bin/python /home/shresta333/flask_app/main.py

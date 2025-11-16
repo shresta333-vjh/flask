@@ -1,0 +1,21 @@
+2025-11-16 13:12:18.947 [info] 
+
+
+
+
+2025-11-16 13:12:18.964 [info] Extension host agent started.
+2025-11-16 13:12:18.995 [info] Started initializing default profile extensions in extensions installation folder. file:///home/shresta333/.codeoss/extensions
+2025-11-16 13:12:19.023 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/shresta333/.codeoss/extensions
+2025-11-16 13:12:23.570 [info] [127.0.0.1][3ea0779f][ManagementConnection] New connection established.
+2025-11-16 13:12:23.965 [info] [127.0.0.1][e200755d][ExtensionHostConnection] New connection established.
+2025-11-16 13:12:26.029 [info] [127.0.0.1][e200755d][ExtensionHostConnection] <1222> Launched Extension Host Process.
+2025-11-16 13:25:39.429 [info] [127.0.0.1][3ea0779f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-16 13:25:39.528 [info] [127.0.0.1][e200755d][ExtensionHostConnection] <1222> Extension Host Process exited with code: 0, signal: null.
+2025-11-16 13:51:23.522 [info] [127.0.0.1][64dd4309][ManagementConnection] New connection established.
+2025-11-16 13:51:23.663 [info] [127.0.0.1][844b68e6][ExtensionHostConnection] New connection established.
+2025-11-16 13:51:23.668 [info] [127.0.0.1][844b68e6][ExtensionHostConnection] <1514> Launched Extension Host Process.
+2025-11-16 13:51:33.329 [info] [127.0.0.1][64dd4309][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-16 13:51:33.732 [info] [127.0.0.1][844b68e6][ExtensionHostConnection] <1514> Extension Host Process exited with code: 0, signal: null.
+2025-11-16 13:51:36.318 [info] [127.0.0.1][171eaa3d][ManagementConnection] New connection established.
+2025-11-16 13:51:36.477 [info] [127.0.0.1][53092ae2][ExtensionHostConnection] New connection established.
+2025-11-16 13:51:36.482 [info] [127.0.0.1][53092ae2][ExtensionHostConnection] <1533> Launched Extension Host Process.
